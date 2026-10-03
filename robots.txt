@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-db409b95c6.geruizhineng.cn/sitemap.xml

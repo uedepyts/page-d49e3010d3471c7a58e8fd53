@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "15e5d3ef17f7955e7a57caa9",
+  "owner": "uedepyts",
+  "repo": "page-d49e3010d3471c7a58e8fd53",
+  "title": "jmltouzi",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d49e3010d3471c7a58e8fd53",
+      "a": "jmltouzi",
+      "b": "",
+      "entity": "jmltouzi",
+      "brand": "jmltouzi",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cc6dd6e6eb730b13d7101ab2c919aff5f13157401d735c2d2332413b9e7b9d40",
+      "content": {
+        "keyword1": "jmltouzi",
+        "keyword2": "",
+        "primary_entity": "jmltouzi",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "jmltouzi提供高速稳定的机场订阅与VPN加速服务，覆盖多端客户端下载、IPLC专线节点及灵活套餐，是跨境办公与流媒体访问的官方选择。",
+          "AI_DESCRIPTION": "jmltouzi提供高速稳定的机场订阅与VPN加速服务，覆盖多端客户端下载、IPLC专线节点及灵活套餐，是跨境办公与流媒体访问的官方选择。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#071422;color:#dceef8;font-size:16px;line-height:1.7}a{color:#26c6da;text-decoration:none}.wrap{width:100%;max-width:920px;margin:0 auto;padding:0 18px}header{padding:20px 0;background:#0a1a2e;border-bottom:1px solid #16324d}.nav{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:center}.brand{font-weight:700;font-size:1.25rem;color:#80deea;margin-right:auto}.hero{padding:72px 18px 56px;text-align:center}h1{font-size:2rem;font-weight:700;color:#fff;margin:0 0 20px;line-height:1.3}.lead{font-size:1.05rem;color:#90caf9;max-width:640px;margin:0 auto 10px}main{display:block}section{padding:40px 0;border-top:1px solid #12263a}h2{font-size:1.45rem;color:#4dd0e1;margin:0 0 18px}h3{font-size:1.15rem;color:#80cbc4;margin:16px 0 8px}p,li{color:#c5dce8}ul{padding-left:20px}.plans{display:flex;flex-wrap:wrap;gap:16px}.card{flex:1 1 250px;background:#0c2136;border:1px solid #1c3d5a;border-radius:10px;padding:22px}.card.feat{border:2px solid #00e5ff;background:#0e2a44}.price{font-size:1.6rem;color:#00e5ff;font-weight:700;margin:8px 0}.annual{font-size:0.9rem;color:#81d4fa}.featlist{margin:12px 0 0;padding-left:18px}.steps{counter-reset:step}.step{position:relative;padding:12px 12px 12px 48px;margin-bottom:12px;background:#0c2136;border-radius:8px}.step:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:28px;height:28px;background:#00838f;color:#fff;border-radius:50%;text-align:center;line-height:28px;font-size:14px}details{background:#0c2136;border:1px solid #1c3d5a;border-radius:8px;margin-bottom:10px;padding:4px 14px 10px}summary{font-weight:600;color:#4fc3f7;padding:10px 0}.footer{background:#050e18;padding:32px 18px;font-size:0.9rem;color:#90a4ae}.footer h3{color:#4dd0e1;margin:0 0 8px}.cols{display:flex;flex-wrap:wrap;gap:24px}.col{flex:1 1 200px}.adbox{background:#0a2740;border:1px dashed #26c6da;padding:16px;margin:16px 0;text-align:center;color:#80deea}</style><header><div class=\"wrap nav\"><span class=\"brand\">jmltouzi</span><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐</a><a href=\"#download\">下载</a><a href=\"#faq\">常见问题</a></div></header><main><div class=\"hero wrap\"><h1>jmltouzi 网络加速官方网站</h1><p class=\"lead\">稳定机场订阅、VPN 加速器与全平台客户端，助您高效连接全球网络。</p><p class=\"lead\">深蓝专线品质 · 青色极速体验 · 官方渠道下载更安心</p></div><section id=\"intro\" class=\"wrap\"><h2>品牌简介</h2><p>jmltouzi 专注于跨境网络加速与机场订阅服务，面向个人与团队提供可预期的带宽、清晰的流量规则以及跨系统客户端支持。我们以官方网站为信息与下载入口，强调节点质量、流媒体解锁与可执行的配置流程，让连接过程简单可控。</p><p>服务覆盖远程协作、学术访问、流媒体与游戏加速。套餐从轻量基础版到高带宽团队版，流量与设备数量阶梯匹配，年付进一步降低长期成本。jmltouzi 坚持官方运营，配置说明公开，不 bundling 不明组件。</p></section><section id=\"scenes\" class=\"wrap\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>视频会议、云文档与代码仓库访问时可选择低延迟线路，减少卡顿，适合跨地区小团队日常协同。</p><h3>流媒体与内容访问</h3><p>旗舰版及以上提供全节点原生解锁，基础版覆盖常见平台的基础播放需求，按套餐说明使用即可。</p><h3>游戏与实时应用</h3><p>旗舰版含 IPLC 专线游戏加速优化，降低抖动，适合对延迟敏感的对战与语音。</p><h3>多设备与家庭共享</h3><p>同一订阅可在套餐限额内同时在线，手机、电脑、平板按需切换，配置一次、多端复用。</p></section><section id=\"guide\" class=\"wrap\"><h2>操作说明与配置流程</h2><p>jmltouzi 把配置流程作为核心体验：从选套餐到导入客户端，步骤固定、说明清楚。请按下列顺序操作，细节也可对照 FAQ。</p><div class=\"steps\"><div class=\"step\"><h3>确认需求并选择套餐</h3><p>根据每月流量、同时在线设备数以及是否需要原生流媒体或游戏专线，对照套餐。轻度使用选基础版，观影与游戏选旗舰版，多人协作选团队版。</p></div><div class=\"step\"><h3>通过官网完成开通</h3><p>在官方渠道登记并开通对应套餐。年付可使用页面标示优惠。开通后在用户中心查看订阅信息，请只通过本站公布入口操作。</p></div><div class=\"step\"><h3>复制机场订阅地址</h3><p>登录后复制专属订阅链接，用于 Clash、Shadowrocket、Surge、Stash 等客户端一键导入。请勿公开分享，以免流量被占用。</p></div><div class=\"step\"><h3>下载官方推荐客户端</h3><p>前往本页下载专区，按系统选择客户端。优先使用官网列出的版本，导入订阅后更新节点列表。</p></div><div class=\"step\"><h3>导入并选择节点连接</h3><p>粘贴订阅或扫描导入，等待节点加载。办公选邻近低延迟节点，流媒体选解锁线路，游戏优先 IPLC 优化节点，连接后即可加速。</p></div><div class=\"step\"><h3>日常维护与升级</h3><p>定期在客户端更新订阅。流量将尽时可升级套餐。团队版可申请定制路由，由客户经理协助配置分流。</p></div></div></section><section id=\"plans\" class=\"wrap\"><h2>套餐与节点能力</h2><p>以下为 jmltouzi 当前公开套餐。流量为每月极速额度，节点池随等级扩展。价格含基础运维，年付更优惠。</p><div class=\"plans\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"featlist\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card feat\"><h3>旗舰版（推荐）</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"featlist\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"featlist\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>节点覆盖香港、东京、新加坡、洛杉矶、伦敦等方向，旗舰与团队可使用 IPLC 与高带宽 VIP 入口。实际延迟随本地网络变化，建议先小流量测试。本页不展示虚构评分，请以实际连接为准。</p></section><section id=\"download\" class=\"wrap\"><h2>官方客户端下载</h2><p>请从 jmltouzi 官网本页进入下载指引，获取与当前订阅兼容的客户端。各系统推荐如下，链接指向本页配置说明，避免非官方来源。</p><ul><li><a href=\"#guide\">Windows：Clash 或官方加速客户端，导入订阅后选择规则模式</a></li><li><a href=\"#guide\">macOS：ClashX 或 Stash，支持菜单栏快捷切换节点</a></li><li><a href=\"#guide\">Android：Clash Meta 系列，使用前授权 VPN 权限</a></li><li><a href=\"#guide\">iOS：Shadowrocket 或 Stash，按商店政策获取 App 后导入订阅</a></li><li><a href=\"#guide\">路由器与其他：团队版可咨询定制，将订阅用于兼容网关</a></li></ul><p>下载与更新请核对官网说明。jmltouzi 不通过不明网盘分发核心客户端，以降低篡改风险。</p></section><section id=\"faq\" class=\"wrap\"><h2>常见问题 FAQ</h2><details><summary>jmltouzi 是官方机场还是第三方转发？</summary><p>jmltouzi 以官方网站身份运营机场订阅与 VPN 加速服务，套餐、节点与客户端指引均以本页为准。请收藏官网，避免钓鱼站点。</p></details><details><summary>如何完成第一次配置？</summary><p>按照配置流程六步：选套餐、开通、复制订阅、下载客户端、导入并连接、日常更新订阅。多数用户可在短时间内完成首次加速。</p></details><details><summary>三个套餐应该怎么选？</summary><p>轻度浏览与基础流媒体选基础版（100GB / 3 设备）。经常看剧、玩游戏选旗舰版（300GB / 5 设备 / IPLC）。公司或家庭多人、需要定制分流选团队版（1000GB / 20 设备 / 专属经理）。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>流量用尽后当月极速通道可能降速或暂停新连接，可升级套餐或等待重置。超过同时在线台数时，新设备需结束旧会话。具体以用户中心数据为准。</p></details><details><summary>客户端导入失败怎么办？</summary><p>检查订阅是否完整、客户端是否为推荐版本、系统时间是否准确。仍失败时，旗舰与团队用户走优先工单，基础用户提交普通工单并说明客户端环境。</p></details><details><summary>年付如何计费，能否中途变更？</summary><p>年付按页面标注优惠收取，相当于约十个月月费。周期内升级可补差价，降级一般在下一周期生效。团队版定制路由需单独沟通实施节奏。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"footer\"><div class=\"wrap cols\"><div class=\"col\" id=\"sitemap\"><h3>网站地图</h3><p><a href=\"#intro\">品牌简介</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#plans\">套餐价格</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">FAQ</a></p></div><div class=\"col\"><h3>友情链接</h3><p><a href=\"#\">网络工具导航</a> · <a href=\"#\">远程办公指南</a> · <a href=\"#\">流媒体兼容说明</a> · <a href=\"#\">客户端教程汇总</a></p></div><div class=\"col\"><h3>官方说明</h3><p>jmltouzi 官方网站发布服务介绍、套餐与下载指引。工单与账户事项请通过开通后的用户中心办理。</p></div></div><div class=\"wrap adbox\">广告合作与品牌展示位：欢迎优质网络、云服务与办公工具互换友链，详情通过官方渠道沟通。</div><div class=\"wrap\"><p>© jmltouzi 官方网站 · 机场订阅与 VPN 网络加速服务 · 保留对套餐与节点的调整权利</p></div></footer>",
+          "hash": "253034e0791fc8101acaf944102cf66e9c54b2535226e5561e579a711bf88e89",
+          "seo": {
+            "title": "jmltouzi官网｜专业机场订阅与VPN网络加速器客户端下载",
+            "keywords": "jmltouzi,jmltouzi官网,jmltouzi机场,jmltouzi VPN,机场订阅,VPN加速器,网络加速,客户端下载,梯子加速",
+            "description": "jmltouzi提供高速稳定的机场订阅与VPN加速服务，覆盖多端客户端下载、IPLC专线节点及灵活套餐，是跨境办公与流媒体访问的官方选择。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "geruizhineng.cn",
+    "host": "p-db409b95c6.geruizhineng.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "geruizhineng.cn",
+      "url": "https://geruizhineng.cn/",
+      "label": "小飞机",
+      "apex": "geruizhineng.cn",
+      "kind": null,
+      "identity": "espdhy/page-18f4805a2f1620bf0a767b50"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b0fc7cef4f49d68656420b2598bed61c47aa7d2bb4115bdede8302b2df1cc8c6",
+    "sitemap.xml": "7f570ee60047ab85519876c86450c68ee6728e6abd8747d9506b292bb8beb8f8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "436d9be355a6ada12294586ef044e51274f3b2c6756ec347af01ceb54d48a2cf",
+    "robots.txt": "3483a93194cb9b2344fa927ef573d5049216fa5386dc82ac609f48dc1e51288d",
+    "a79596b42e332fc11a8d317e3e8ebd80.txt": "757c69c7379fb89de9915c557271278507fff694a086b6f2af7ee085472864af"
+  },
+  "revision": "2d24ac811c1d3658a06c5ae9bb157b9a898d55632143be4da0bd5c9f2a988f70"
+}
